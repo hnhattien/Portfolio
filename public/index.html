@@ -39,5 +39,47 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="%PUBLIC_URL%/tagcanvas.min.js"></script>
+    <script>
+    (function(){
+      window.onload = () => {
+        try{
+          const options = {
+            textColour: "#ffffff",
+            reverse: true,
+            depth: 0.8,
+            maxSpeed: 0.05
+          }
+          if(!TagCanvas.Start('skillTagsCanvas','skills',{
+            textColour: "#ffffff",
+            reverse: true,
+            depth: 0.8,
+            maxSpeed: 0.1,
+            imageMode: "both",
+            imagePosition: "top",
+            clickToFront: 1000,
+            outlineDash: 0,
+            outlineMethod: "none",
+            shape: "sphere",
+            imageScale: 2,
+            shuffleTags: true,
+            textFont: "Arial",
+            weight: "true",
+            weightSize: 2,
+            wheelZoom: false
+          })){
+
+          }
+          else{
+             document.querySelector('#skillTagsCanvas').style.display = "none";
+          }
+        }catch(err){
+          console.log(err);
+          document.querySelector('#skillTagsCanvas').style.display = "none";
+        }
+      }
+    })()
+    </script>
   </body>
 </html>

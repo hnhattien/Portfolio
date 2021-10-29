@@ -1,0 +1,76 @@
+$text-length : 87;
+
+.introduction{
+    &__text{
+        color: white;
+        font-size: 4em;
+        font-weight: 900;
+        &_name{
+            color: aqua;
+        }
+    }
+    @for $i from 1 through $text-length + 1 {
+        &__text:nth-child(#{$i}).animate{
+           display: inline-block;
+           animation-name: animateText;
+           
+           animation-timing-function: ease-in-out;
+           animation-duration: 1s;
+           animation-direction: alternate;
+           animation-fill-mode: both;
+           animation-delay: 100ms;
+           white-space: pre;
+        }
+    }
+}
+@keyframes animateText {
+    0%{
+        transform: translateY(0);
+    }
+    20%{
+        transform: translateY(-20px);
+    }
+    50%{
+        transform: translateY(2px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+@keyframes rubberBand {
+    0%{
+        -webkit-transform:scale3d(1,1,1);
+        -ms-transform:scale3d(1,1,1);
+        transform:scale3d(1,1,1)
+    }
+    30%{
+        -webkit-transform:scale3d(1.25,.75,1);
+        -ms-transform:scale3d(1.25,.75,1);
+        transform:scale3d(1.25,.75,1)}
+    40%{
+        -webkit-transform:scale3d(.75,1.25,1);
+        -ms-transform:scale3d(.75,1.25,1);
+        transform:scale3d(.75,1.25,1)
+    }
+    50%{
+        -webkit-transform:scale3d(1.15,.85,1);
+        -ms-transform:scale3d(1.15,.85,1);
+        transform:scale3d(1.15,.85,1)
+    }
+    65%{
+        -webkit-transform:scale3d(.95,1.05,1);
+        -ms-transform:scale3d(.95,1.05,1);
+        transform:scale3d(.95,1.05,1)
+    }
+    75%{
+        -webkit-transform:scale3d(1.05,.95,1);
+        -ms-transform:scale3d(1.05,.95,1);
+        transform:scale3d(1.05,.95,1)
+    }
+    100%{
+        -webkit-transform:scale3d(1,1,1);
+        -ms-transform:scale3d(1,1,1);
+        transform:scale3d(1,1,1)
+    }
+}
+

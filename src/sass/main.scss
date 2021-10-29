@@ -1,0 +1,47 @@
+@import "mixins/breakpoints";
+@import './introduction.scss';
+
+
+
+*[role="button"]{
+    user-select: none;
+    cursor: pointer;
+}
+
+div.App{
+
+    display: grid;
+    @include media-screen("lg"){
+        &{
+            grid-template-areas: 
+                "header header"
+                "introduction technology"
+                "c c"
+                "c c"
+                "c c"
+                "c c"
+                "f f";
+            grid-template-rows: repeat(7, max-content);
+            grid-template-columns: repeat(2,1fr);
+            grid-row-gap: 5em;
+        }
+        
+        & .header{
+            grid-area: header;
+            height: fit-content;
+            max-height: 200px;
+        }
+        & .introduction{
+            grid-area: introduction;
+            margin-left: 2em;
+            width: max-content;
+        }
+        & .button__menu{
+            color: white;
+            font-size: 2em;
+            float: right;
+            margin: 10px;
+        }
+    }
+
+}

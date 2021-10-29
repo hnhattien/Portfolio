@@ -1,0 +1,839 @@
+.introduction__text {
+  color: white;
+  font-size: 4em;
+  font-weight: 900; }
+  .introduction__text_name {
+    color: aqua; }
+.introduction__text:nth-child(1).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(2).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(3).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(4).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(5).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(6).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(7).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(8).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(9).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(10).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(11).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(12).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(13).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(14).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(15).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(16).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(17).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(18).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(19).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(20).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(21).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(22).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(23).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(24).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(25).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(26).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(27).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(28).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(29).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(30).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(31).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(32).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(33).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(34).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(35).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(36).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(37).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(38).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(39).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(40).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(41).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(42).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(43).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(44).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(45).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(46).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(47).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(48).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(49).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(50).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(51).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(52).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(53).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(54).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(55).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(56).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(57).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(58).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(59).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(60).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(61).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(62).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(63).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(64).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(65).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(66).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(67).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(68).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(69).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(70).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(71).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(72).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(73).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(74).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(75).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(76).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(77).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(78).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(79).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(80).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(81).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(82).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(83).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(84).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(85).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(86).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(87).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+.introduction__text:nth-child(88).animate {
+  display: inline-block;
+  animation-name: animateText;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1s;
+  animation-direction: alternate;
+  animation-fill-mode: both;
+  animation-delay: 100ms;
+  white-space: pre; }
+
+@keyframes animateText {
+  0% {
+    transform: translateY(0); }
+  20% {
+    transform: translateY(-20px); }
+  50% {
+    transform: translateY(2px); }
+  100% {
+    transform: translateY(0); } }
+@keyframes rubberBand {
+  0% {
+    -webkit-transform: scale3d(1, 1, 1);
+    -ms-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1); }
+  30% {
+    -webkit-transform: scale3d(1.25, 0.75, 1);
+    -ms-transform: scale3d(1.25, 0.75, 1);
+    transform: scale3d(1.25, 0.75, 1); }
+  40% {
+    -webkit-transform: scale3d(0.75, 1.25, 1);
+    -ms-transform: scale3d(0.75, 1.25, 1);
+    transform: scale3d(0.75, 1.25, 1); }
+  50% {
+    -webkit-transform: scale3d(1.15, 0.85, 1);
+    -ms-transform: scale3d(1.15, 0.85, 1);
+    transform: scale3d(1.15, 0.85, 1); }
+  65% {
+    -webkit-transform: scale3d(0.95, 1.05, 1);
+    -ms-transform: scale3d(0.95, 1.05, 1);
+    transform: scale3d(0.95, 1.05, 1); }
+  75% {
+    -webkit-transform: scale3d(1.05, 0.95, 1);
+    -ms-transform: scale3d(1.05, 0.95, 1);
+    transform: scale3d(1.05, 0.95, 1); }
+  100% {
+    -webkit-transform: scale3d(1, 1, 1);
+    -ms-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1); } }
+
+/*# sourceMappingURL=introduction.css.map */
